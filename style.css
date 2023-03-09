@@ -1,0 +1,9 @@
+* {margin:0;padding: 0;}
+h1{
+    color: darkorange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+    font-size: 12px;
+}
