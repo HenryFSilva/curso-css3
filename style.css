@@ -7,3 +7,7 @@ p{font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: blueviolet;
     font-size: 12px;
 }
+input{
+    width: 200px;
+    background-color:aqua;
+}
